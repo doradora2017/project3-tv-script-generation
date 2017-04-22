@@ -1,2 +1,3 @@
 # project3-tv-script-generation
-udacity 
+Udacity's deep learning project3 tv script generation
+Using tensorflow recurrent neural Network for tv script generation
